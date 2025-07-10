@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+.env
+*.env
+__pycache__/
+*.pyc
+
+# Ignore API key files
+apikey.txt
+*.key
+secrets.json
+
+# Ignore config or credential files
+*.config
+*.log
+
+# IDE-specific (optional)
+.vscode/
+.idea/
